@@ -8,7 +8,7 @@ This analysis was inspired by a quick guided project course I completed on Cours
 
 Examples of visuals created: 
 
-_Trends over time:
+_Trends over time:_
 
 Cumulative Cases between January to September for selected countries
 
@@ -20,7 +20,7 @@ New cases between January to September for selected countries
 
 ![](https://github.com/trisharjani/covid_19_analysis/blob/master/covid2.png)
 
-_Regression Plots:
+_Regression Plots:_
 
 <img src="https://github.com/trisharjani/covid_19_analysis/blob/master/covid4.jpg" width="300" height="200"/> 
 
